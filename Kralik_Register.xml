@@ -22,12 +22,12 @@
             <head>Personenregister</head>
             <listPerson>
                <person xml:id="Kralik_Richard">
-                  <persName ref="http://d-nb.info/gnd/"><forename>Richard</forename><nameLink>von</nameLink><surname>Kralik</surname></persName>
+                  <persName ref="http://d-nb.info/gnd/118777920"><forename>Richard</forename><nameLink>von</nameLink><surname>Kralik</surname></persName>
                </person>
-               <person xml:id="Mozart_WolfgangAmadedus"><persName ref="http://d-nb.info/gnd/"><forename>Wolfgang</forename><forename>Amadeus</forename><nameLink>von</nameLink><surname>Mozart</surname></persName></person>
-               <person xml:id="Bruckner_Anton"><persName ref="http://d-nb.info/gnd/"><forename>Anton</forename><surname>Brucker</surname></persName></person>
-               <person xml:id="Krenn_Franz"><persName ref="http://d-nb.info/gnd/"><forename>Franz</forename><surname>Krenn</surname></persName></person>
-               <person xml:id="Hertlein_Carl"><persName ref="http://d-nb.info/gnd/"><forename>Carl</forename><surname>Hertlein</surname></persName></person>
+               <person xml:id="Mozart_WolfgangAmadedus"><persName ref="http://d-nb.info/gnd/118584596"><forename>Wolfgang</forename><forename>Amadeus</forename><nameLink>von</nameLink><surname>Mozart</surname></persName></person>
+               <person xml:id="Bruckner_Anton"><persName ref="http://d-nb.info/gnd/118515828"><forename>Anton</forename><surname>Brucker</surname></persName></person>
+               <person xml:id="Krenn_Franz"><persName ref="http://d-nb.info/gnd/130330728"><forename>Franz</forename><surname>Krenn</surname></persName></person>
+               <person xml:id="Hertlein_Carl"><persName ref="http://d-nb.info/gnd/1328178439"><forename>Carl</forename><surname>Hertlein</surname></persName></person>
             </listPerson>
          </div>
       </body>
