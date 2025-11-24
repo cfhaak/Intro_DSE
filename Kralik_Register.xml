@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Personenregister zum CV von Mathilde von Kralik</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Personenregister</head>
+            <listPerson>
+               <person xml:id="Kralik_Richard">
+                  <persName ref="http://d-nb.info/gnd/"><forename>Richard</forename><nameLink>von</nameLink><surname>Kralik</surname></persName>
+               </person>
+               <person xml:id="Mozart_WolfgangAmadedus"><persName ref="http://d-nb.info/gnd/"><forename>Wolfgang</forename><forename>Amadeus</forename><nameLink>von</nameLink><surname>Mozart</surname></persName></person>
+               <person xml:id="Bruckner_Anton"><persName ref="http://d-nb.info/gnd/"><forename>Anton</forename><surname>Brucker</surname></persName></person>
+               <person xml:id="Krenn_Franz"><persName ref="http://d-nb.info/gnd/"><forename>Franz</forename><surname>Krenn</surname></persName></person>
+               <person xml:id="Hertlein_Carl"><persName ref="http://d-nb.info/gnd/"><forename>Carl</forename><surname>Hertlein</surname></persName></person>
+            </listPerson>
+         </div>
+      </body>
+   </text>
+</TEI>
