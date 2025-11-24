@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Curriculum vitae, digital edition</title>
+                <author>Kralik, Mathilde von</author>            
+                <respStmt>
+                    <resp>transcription</resp>
+                    <persName><!-- Tragen Sie hier Ihren Namen ein. --></persName>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI Encoding</resp>
+                    <persName><!-- Tragen Sie hier Ihren Namen ein. --></persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>           
+            </publicationStmt>
+            <sourceDesc>
+                <!--  <p>Information about the source</p>-->
+                <bibl>Kralik, Mathilde von: Curriculum vitae, Wien, 1904</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><p><!-- Beschreibung der editorischen Praxis hierhin.--></p></encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb/>
+                <p>I. N. 189.405</p>
+                <p><rs type="place" ref="Vienna">Wien</rs> <date>19 Okt 1904</date></p>
+                
+                <p>
+                <lb/>Ich bin am 3. Dezember 1857 zu Linz
+                    <lb/>an der Donau geboren. Mein <rs type="person">Vater</rs>
+                    <lb/>(gest. 1877) war Glasfabrikant (Chef der
+                    <lb/>Firma Meyr's Neffe in Böhmen), meine <rs type="person">Mutter</rs>
+                    <lb/>ist eine geborene Lobmeyr (Schwester des
+                    <lb/>Herrenhausmitgliedes und Glasindustriellen
+                    <lb/>Lobmayr zu Wien). Meinem Vater und
+                    <lb/>meiner Mutter verdanke ich den musikalishen
+                    <lb/>Sinn und die Liebe zur Musik. Mein Vater
+                    <lb/>war passionirter Geigenspieler, wiewohl Auto¬
+                    <lb/>didakt und pflegte im Böhmerwalde eifrig
+                    <lb/>das Quartettspiel. Meine Mutter spielte als
+                    <lb/>Dilettantin gut Klavier und neigte schon
+                    <lb/>als Mädchen der ernsten Klassischen
+                    <lb/>Richtung zu. Von meinen Eltern hörte
+                    <lb/>ich zuerst Beettoven's Violin-Klavier-Sonaten.
+                    <lb/>xHaydn, Mozart lernte ich durch Anhörung
+                    <lb/>der häuslichen Quartette kennen. Später
+                    <lb/>übernahmen dann meine beiden älteren
+                    <lb/>Brüder und schliesslich ich mit ihnen die
+                    <lb/>Hausmusik die in Duos, Trios und Quatuors
+                    <lb/>Klassischer Richtung unserer Klassiker besaänd.
+                    <lb/>Meine ersten Kompositionsversuche
+                    <lb/>förderte mein <rs type="person">Bruder Richard</rs>, der sich lebhaft
+                    <lb/>oder: Haydn's und Mozart's Klänge wurden mir zunächst durch die
+                    <lb/>häuslichen Quartette vermittelt.
+                <pb/>
+                
+                    <lb/>obte
+                    <lb/>In den folgenden Jahren pflegten wir in
+                    <lb/>meinem
+                    <lb/>zu Hause den a capella-Gesang, wodurch ich mit den Werken
+                    <lb/>Werken der
+                    <lb/>des niederlämdischen und italienischen u. deutschen
+                    <lb/>Meister des XV. u XVI. Jahrhunderts vertrauter
+                    <lb/>Am liebesten
+                    <lb/>hauptsächlicher
+                    <lb/>wurde. Immer Daneben ging Als mein größten
+                    <lb/>Lehrmeister betrachte ich <rs ref="Bach_JohannSebastian" type="person">Bach</rs>. für die
+                    <lb/>modernen Formen erdie interessiert
+                    <lb/>res mich promiel Liegt.
+                <pb/>
+                
+                    <lb/>dafur interessirte.
+                    <lb/>Meinen ersten Klavierunterricht genoß
+                    <lb/>ich bei meiner Mutter, dann bei <rs ref="Hauptmann_Eduard" type="person">Eduard
+                    <lb/>Hauptmann</rs> in <rs ref="Linz" type="place">Linz</rs>. Meine ersten
+                    <lb/>Kompositionsversuche förderte mein
+                    <lb/>Bruder Richard, der sich lebhaft lafür interessierte.
+                    <lb/>Nach unserer <eventName>Übersiedlung</eventName> nach Wien
+                    <lb/>im Jahre 1870 erhielt ich Unterricht im
+                    <lb/>Klavierspiel und in der Harmonielehre
+                    <lb/>von <rs ref="Hertlein_Carl" type="person">Carl Hertlein</rs> (Flötist der Hofoper).
+                    <lb/>Im Jahre 1875 wurde ich Privat-Schülerin
+                    <lb/>von Professor <rs ref="Epstein:Julius" type="person">Julius Epstein</rs> für Klavier;
+                    <lb/>Er nahm
+                    <lb/>der ernsten Anteil an meinen Kompositionen
+                    <lb/>net
+                    <lb/>nahm und <add place="above">riet</add> mir zur weiteren Ausbildung
+                    <lb/><rs ref="Brucker_Anton" type="person">Anton Bruckner</rs> für Contrapunkt vorschlug,
+                    <lb/>dessen Unterricht ich privatim ein Jahr
+                    <lb/>genoß bis zu meinem Eintritt im in die
+                    <lb/>Kompositionsschule des <rs ref="Konservatorium-Wien" type="organisation">Wiener Konservatoriums</rs>
+                    <lb/>im Oktober 1876. Ich wurde in den zweiten
+                    <lb/>Jahrgang (Schule Professor <rs ref="Krenn_Franz" type="person">Franz Krenn</rs>) übernommen.
+                    <lb/>folgenden
+                    <lb/>Nach Absolvierung des dritten Jahrganges erhielt
+                    <lb/>ich den (I.) ersten Preis. Meine Kompositionen
+                    <lb/>sind zumn Teit gedruckt, zum größeren Teil
+                    <lb/>noch Manuscript. Erstere, bestehen im:
+                    <lb/>sind im Verlage Gutmann, Wien, erschienen, und
+                    <lb/>sind:
+                
+                <pb/>
+                    <lb/>Narodny
+                <pb/>
+                
+                    <lb/>zu I.N. 189.405
+                    <list>
+                        <item>1. Sonate für Clavier und Violine</item>
+                <item>2. Trio für Clavier, Violine und Alto</item>
+                <item>3. Fünf Clavierstücke
+                (Festmarsch, Träumerei, Liedchen, Intermezzo
+                Gavotte,)</item>
+                <item>4. Der Rosenkranz
+                (Gedicht von Richard Kralik, für eine Singstimme
+                mit Begleitung des Claviers).</item>
+                <item>5. Büchlein der Unweisheit
+                (Gedichte von Richard Kralik, für eine Singstimme
+                mit Clavierbegleitung.</item>
+                <item>6. Lieder im Heiligen Geist von Richard und Mathilde
+                Kralik für eine Singstimme mit Clavierbegleitung</item>
+                <item>7. Die Taufe Christi. Gedicht von Papst Leo XIII. für eine
+                Singstimme mit Clavierbegleitung.</item>
+                <item>8. Hymnus S. Hildegardio für Sopransolo, Frauenchor
+                und Clavier.</item>
+                <item>9. Jugendlieder für eine Singstimme mit Clavierbegleitung.</item></list>
+                Ungedruckte Kompositionen :
+                Weihnachten. Cantate für Soli, Chor u. Orchester.
+                Gedicht von Richard v. Kralik
+                Orchester Partitur u 2hndg. Klavierauszug
+                Der Kreuzweg. Cantate für Soli, Chor u. Orcherster.
+                Gedicht von Richard v. Kralik
+                Orchester-Partitur u. 2hdg. Klavierauszug
+                Blume und Weißblume (Fleur et Blanche¬
+                fleur)
+                Oper (Märchenspiel)
+                Oper in drei Akten. Orchesterpart. u. 2hdg. Klavierauszug
+                Märchenspiel Dichtung von Richard v. Kralik.
+                <pb/> 
+                
+                De se ipso. Gedicht von Papst Leo XIII. f. Männerchor
+                a capella
+                
+                Marienlied. "   "    "   f. Frauenchor
+                O du sonuige, wonnige Welt. Gedicht von. F. W. Weber f.gem Ch. m. Cl.B.
+                
+                
+                Symphonie Fmoll Orchester-Part. u. 4hdg. Klavierauszug
+                Nonett in C für Bläserquartett (Clar. 2 Hörner u. Fagott)
+                Streichquartett und Klavier-Partitur u.
+                4 hdg. Klavierauszug
+                Streichquartett A dur
+                Zwei Kurze Messen f. Chor mit Orgelbegleitung
+                Te Deum für Chor u. Orgel
+                3 Tantum ergo. f. Chor u. Orgel
+                G Kirchen-Chor-Gesänge mit Orgelbegleitung
+                ein vo
+                Lieder-Cyclus: "Maia". 57 Lieder.
+                Gedichte von Rich. v. Kralik
+                Balladen-Cyclus "Prinz Eugen"
+                Gedichte von Rich. v. Kralik
+                Tanzidyllen. Gedichte von Rich. v. Kralik
+                Die Musik zu zwei Auto's von Calderon Begleitg. u.
+                Klavier
+                f.Chor. Soli u Chor
+                Klavier
+                Text aus Herders Stimme d. v.
+                Hymenäus. (Herder - nach Catull) f. Chor u. Klavierbegleitung.
+                4 Melodramatische Novellen. Dichtungen von
+                Rich. v. Kralik.
+                Blumenlieder, 5 Gedichte von Irene Zoepf.
+                Reihen. Clavier-Suite
+                Clavierstücke Sonate
+                Gloren Fantasien
+                Weihefestmarsch f. Orchester
+                Zwei kleinere Festmärsche f. Clavier
+                Chlavierstücke Lieder u. Balladen nach Gedichten verschied. Autoren
+                Aufgeführt wurden: Sonate f. Clavier u. Violice
+                Trio f. A., V. Vc.
+                Lieder, Nonett.
+                Clavierstücke
+                Taufe Christi
+                Hymnus S. Hildegardi
+                Weihnachten, Kreuzweg, Symphonie, Nonett, Streichquartett, Messen.
+                
+                
+                </p>
+            <list>
+                <item></item>
+                <item></item>
+            </list>
+                
+       
+            </div>
+        </body>
+    </text>
+</TEI>
+
