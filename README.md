@@ -1,6 +1,7 @@
 # Material für eine Einführung in Digital Scholarly Editions 
 
 Hier gespeicherte Dateien:
+- *Curriculum_vitae.txt*: Eine bereits verbesserte, transkribierte Version des hier als Beispiel verwendeten Textes. Falls Sie bei der Verwendung von Transkribus auf Probleme gestoßen sind, können sie diese Datei als Ausgangspunkt für Ihre Transkription in XML verwenden.
 - *README.md:* Die Datei, die sie gerade lesen.
 - *tei_template.xml:* Template für eine TEI-Datei. Laden Sie diese Datei herunter, um eine Transkription zu erstellen.
 - *transkribus_raw.txt:* Eine rohe, unkorrigierte Transkription des hier als Beispiel verwendeten Dokuments. Falls Sie bei der Verwendung von Transkribus auf Probleme gestoßen sind, können sie diese Datei als Ausgangspunkt verwenden.
