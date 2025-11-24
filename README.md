@@ -12,6 +12,9 @@ Um eine Datei herunter zu laden, gehen Sie bitte wie folgt vor:
 
 
 # Wichtige Tags
+Hier finden Sie nur eine verkürzte Übersicht über die wichtigsten Tags. Für genauere Informationen stellt die TEI umfangreiche Materialien zur Verfügung. Z.B.:
+* [die Definition des p-Elements (für Absätze](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-p.html)
+* [der Einleitungstext über Personen, Orte und Daten](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html)
 ## Wichtige Strukturelle Tags:
 ### Bereich
 ```xml
