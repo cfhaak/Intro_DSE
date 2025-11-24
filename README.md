@@ -62,7 +62,7 @@ mich<add place="above">riet</add> mir
 ```
 ### Personen
 ```xml
-<rs ref="#Kralik_Richard" type="name">Rich. K.</rs>
+<rs ref="#Kralik_Richard" type="person">Rich. K.</rs>
 ```
 ### Orte 
 ```xml
