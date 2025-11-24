@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Personenregister zum CV von Mathilde von Kralik</title>
+            <title>Register zum CV von Mathilde von Kralik</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -24,12 +24,27 @@
                <person xml:id="Kralik_Richard">
                   <persName ref="http://d-nb.info/gnd/118777920"><forename>Richard</forename><nameLink>von</nameLink><surname>Kralik</surname></persName>
                </person>
-               <person xml:id="Mozart_WolfgangAmadedus"><persName ref="http://d-nb.info/gnd/118584596"><forename>Wolfgang</forename><forename>Amadeus</forename><nameLink>von</nameLink><surname>Mozart</surname></persName></person>
+               <person xml:id="Kralik_Wilhelm"><persName ref="http://d-nb.info/gnd/136539696"><forename>Wilhelm</forename><surname>Kralik</surname></persName></person>
+               <person xml:id="Mozart_WolfgangAmadeus"><persName ref="http://d-nb.info/gnd/118584596"><forename>Wolfgang</forename><forename>Amadeus</forename><nameLink>von</nameLink><surname>Mozart</surname></persName></person>
                <person xml:id="Bruckner_Anton"><persName ref="http://d-nb.info/gnd/118515828"><forename>Anton</forename><surname>Brucker</surname></persName></person>
                <person xml:id="Krenn_Franz"><persName ref="http://d-nb.info/gnd/130330728"><forename>Franz</forename><surname>Krenn</surname></persName></person>
                <person xml:id="Hertlein_Carl"><persName ref="http://d-nb.info/gnd/1328178439"><forename>Carl</forename><surname>Hertlein</surname></persName></person>
             </listPerson>
          </div>
+         <div>
+            <head>Ortsregister</head>
+            <listPlace>
+               <place xml:id="Vienna"><placeName>Wien</placeName></place>
+               <place xml:id="Linz"><placeName>Linz</placeName></place>
+            </listPlace>
+         </div>
+         <div>
+            <head>Organisationenregister</head>
+            <listOrg>
+               <org xml:id="MeyrsNeffe"><orgName>Meyr's Neffe</orgName></org>
+               <org xml:id="Konservatorium-Wien"><orgName ref="https://www.geschichtewiki.wien.gv.at/Special:URIResolver/?curid=14781" source="WienGeschichteWiki">Wiener Konservatorium</orgName></org>
+            </listOrg>
+         </div>                  
       </body>
    </text>
 </TEI>

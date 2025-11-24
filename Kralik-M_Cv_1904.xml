@@ -33,10 +33,10 @@
                 <p><rs type="place" ref="Vienna">Wien</rs> <date>19 Okt 1904</date></p>
                 
                 <p>
-                <lb/>Ich bin am 3. Dezember 1857 zu Linz
-                    <lb/>an der Donau geboren. Mein <rs type="person">Vater</rs>
+                <lb/><eventName>Ich bin am <date type="birth-date">3. Dezember 1857</date> zu <rs ref="Linz" type="place">Linz
+                        <lb/>an der Donau</rs> geboren.</eventName> Mein <rs type="person" ref="Kralik_Wilhelm">Vater</rs>
                     <lb/>(gest. 1877) war Glasfabrikant (Chef der
-                    <lb/>Firma Meyr's Neffe in Böhmen), meine <rs type="person">Mutter</rs>
+                    <lb/><rs type="organisation" ref="MeyrsNeffe">Firma Meyr's Neffe</rs> in Böhmen), meine <rs type="person">Mutter</rs>
                     <lb/>ist eine geborene Lobmeyr (Schwester des
                     <lb/>Herrenhausmitgliedes und Glasindustriellen
                     <lb/>Lobmayr zu Wien). Meinem Vater und
@@ -56,7 +56,7 @@
                     <lb/>Hausmusik die in Duos, Trios und Quatuors
                     <lb/>Klassischer Richtung unserer Klassiker besaänd.
                     <lb/>Meine ersten Kompositionsversuche
-                    <lb/>förderte mein <rs type="person">Bruder Richard</rs>, der sich lebhaft
+                    <lb/>förderte mein <rs type="person" ref="Kralik_Richard">Bruder Richard</rs>, der sich lebhaft
                     <lb/>oder: Haydn's und Mozart's Klänge wurden mir zunächst durch die
                     <lb/>häuslichen Quartette vermittelt.
                 <pb/>
@@ -76,12 +76,12 @@
                     <lb/>res mich promiel Liegt.
                 <pb/>
                 
-                    <lb/>dafur interessirte.
+                    <lb/>dafür interessirte.
                     <lb/>Meinen ersten Klavierunterricht genoß
                     <lb/>ich bei meiner Mutter, dann bei <rs ref="Hauptmann_Eduard" type="person">Eduard
                     <lb/>Hauptmann</rs> in <rs ref="Linz" type="place">Linz</rs>. Meine ersten
                     <lb/>Kompositionsversuche förderte mein
-                    <lb/>Bruder Richard, der sich lebhaft lafür interessierte.
+                    <lb/>Bruder <rs ref="Kralik_Richard" type="person">Richard</rs>, der sich lebhaft lafür interessierte.
                     <lb/>Nach unserer <eventName>Übersiedlung</eventName> nach Wien
                     <lb/>im Jahre 1870 erhielt ich Unterricht im
                     <lb/>Klavierspiel und in der Harmonielehre
